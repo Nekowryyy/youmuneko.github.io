@@ -6,8 +6,6 @@
 </head>
 <body>
 	<h1>未完工</h1>
-    <div class="title">
-        <a href="http://192.168.69.140:9999">nginx</a></div>
     <div id="landlord">
     <div class="message" style="opacity:0"></div>
     <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
