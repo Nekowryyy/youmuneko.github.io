@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -6,6 +5,7 @@
     <link rel="stylesheet" href="/live2d/css/live2d.css" />
 </head>
 <body>
+	<h1>未完工</h1>
     <div class="title">
         <a href="http://192.168.69.140:9999">nginx</a></div>
     <div id="landlord">
