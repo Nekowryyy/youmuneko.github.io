@@ -3,6 +3,9 @@
         {
             "selector": ".title a",
             "text": ["要看看 {text} 么？"]
+        },{
+            "selector": "h1 a",
+            "text": ["这是首页！"]
         },
         {
             "selector": ".searchbox",
